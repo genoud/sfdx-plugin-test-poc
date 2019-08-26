@@ -3,7 +3,7 @@
   "description": "Getstarted writing tests for dx plugins",
   "version": "1.0.0",
   "author": "Genoud Magloire DOUANLA DJATIO",
-  "bugs": "https://github.com/dev/sfdx-test/issues",
+  "bugs": "https://github.com/genoud/sfdx-plugin-test-poc/issues",
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",

@@ -3,14 +3,14 @@ sfdx-test
 
 Getstarted writing tests for dx plugins
 
-[![Version](https://img.shields.io/npm/v/sfdx-test.svg)](https://npmjs.org/package/sfdx-test)
-[![CircleCI](https://circleci.com/gh/dev/sfdx-test/tree/master.svg?style=shield)](https://circleci.com/gh/dev/sfdx-test/tree/master)
-[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/dev/sfdx-test?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/sfdx-test/branch/master)
-[![Codecov](https://codecov.io/gh/dev/sfdx-test/branch/master/graph/badge.svg)](https://codecov.io/gh/dev/sfdx-test)
-[![Greenkeeper](https://badges.greenkeeper.io/dev/sfdx-test.svg)](https://greenkeeper.io/)
-[![Known Vulnerabilities](https://snyk.io/test/github/dev/sfdx-test/badge.svg)](https://snyk.io/test/github/dev/sfdx-test)
-[![Downloads/week](https://img.shields.io/npm/dw/sfdx-test.svg)](https://npmjs.org/package/sfdx-test)
-[![License](https://img.shields.io/npm/l/sfdx-test.svg)](https://github.com/dev/sfdx-test/blob/master/package.json)
+[![Version](https://img.shields.io/npm/v/sfdx-plugin-test-poc.svg)](https://npmjs.org/package/sfdx-plugin-test-poc)
+[![CircleCI](https://circleci.com/gh/genoud/sfdx-plugin-test-poc/tree/master.svg?style=shield)](https://circleci.com/gh/genoud/sfdx-plugin-test-poc/tree/master)
+[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/genoud/sfdx-plugin-test-poc?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/sfdx-plugin-test-poc/branch/master)
+[![Codecov](https://codecov.io/gh/genoud/sfdx-plugin-test-poc/branch/master/graph/badge.svg)](https://codecov.io/gh/genoud/sfdx-plugin-test-poc)
+[![Greenkeeper](https://badges.greenkeeper.io/genoud/sfdx-plugin-test-poc.svg)](https://greenkeeper.io/)
+[![Known Vulnerabilities](https://snyk.io/test/github/genoud/sfdx-plugin-test-poc/badge.svg)](https://snyk.io/test/github/genoud/sfdx-plugin-test-poc)
+[![Downloads/week](https://img.shields.io/npm/dw/sfdx-plugin-test-poc.svg)](https://npmjs.org/package/sfdx-plugin-test-poc)
+[![License](https://img.shields.io/npm/l/sfdx-plugin-test-poc.svg)](https://github.com/dev/sfdx-plugin-test-poc/blob/master/package.json)
 
 <!-- toc -->
 * [Debugging your plugin](#debugging-your-plugin)
