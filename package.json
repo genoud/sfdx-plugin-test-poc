@@ -59,7 +59,7 @@
   "scripts": {
     "postpack": "rimraf oclif.manifest.json",
     "prepack": "rimraf lib && tsc -b && oclif-dev manifest && oclif-dev readme",
-    "test": "set MOCHA_FILE=./testoutput/test-result.xml && nyc --extension .ts mocha --forbid-only --reporter mocha-junit-reporter  \"test/**/*.test.ts\"",
+    "test": "nyc --extension .ts mocha --forbid-only --reporter mocha-junit-reporter  \"test/**/*.test.ts\"",
     "version": "oclif-dev readme && git add README.md"
   }
 }

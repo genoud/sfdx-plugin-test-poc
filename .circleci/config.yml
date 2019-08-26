@@ -5,6 +5,9 @@ jobs:
     docker:
       - image: node:latest
     working_directory: ~/cli
+    environment:
+      CODECOV_TOKEN: df985370-c785-441b-9739-bb5a5c4f43c7
+      MOCHA_FILE: ./testoutput/test-result.xml
     steps:
       - checkout
       - restore_cache: &restore_cache
